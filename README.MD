@@ -35,11 +35,11 @@ I have specialized skills related to system design, building, and maintenance.
 
 ## 3. Portfolio
   ### - Lifefinder C-Lab
-  . Mass user,traffic gis(geographic information system)
-  . helpful for professional rescue rangers to search and rescue missing people in moutain 
-  . I currently working on (2020.4 ~ 2020.12)
+  . Mass user,traffic gis(geographic information system)<br>
+  . helpful for professional rescue rangers to search and rescue missing people in moutain <br>
+  . I currently working on (2020.4 ~ 2020.12)<br>
   ### - 3D Terrain Canvas
-  . 3D Terrain canvas demo web app on which you can draw 3D Terrain easily
+  . 3D Terrain canvas demo web app on which you can draw 3D Terrain easily<br>
   . implemented with React, WebGl(Three library)
   ### - Audio Quality Test System
   . Principles of auto audio quality test system
