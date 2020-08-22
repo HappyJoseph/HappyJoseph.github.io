@@ -1,4 +1,4 @@
-## Josep Kim
+# Josep Kim
 Computer Engineer
 
 Computer programming expert with extensive experience. <br>
