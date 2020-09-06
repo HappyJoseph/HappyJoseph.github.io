@@ -27,7 +27,7 @@ export default function Icons() {
           </CardHeader>
           <CardBody>
             <p className={classes.description} style={{fontSize:"1.5rem"}}>
-              A system that helps rescue teams easily find the missing person in the event of a missing person in a mountainous environment
+            3D Terrain canvas demo web app on which you can draw 3D Terrain easily
             </p>
             <p className={classes.description} style={{fontSize:"1.5rem"}}>
               Skills : React, Webgl(Three Library)
