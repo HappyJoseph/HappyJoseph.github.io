@@ -68,17 +68,30 @@ export default function Qualifications() {
               </GridContainer> */}
               <GridContainer spacing={3}>
                 <GridItem xs={12} sm={12} md={12}>
-                    <Success fontSize='2.5rem'>
-                      3D Terrain Canvas
-                    </Success>
-                    <Muted fontSize='18px'>
-                      3D Terrain canvas demo web app on which you can draw 3D Terrain easily
-                    </Muted>
-                    <Muted fontSize='18px'>
-                      implemented with React, WebGl(Three library)
-                    </Muted>
-                  </GridItem>
-                </GridContainer>
+                  <Success fontSize='2.5rem'>
+                    3D Terrain Canvas
+                  </Success>
+                  <Muted fontSize='18px'>
+                    3D Terrain canvas demo web app on which you can draw 3D Terrain easily
+                  </Muted>
+                  <Muted fontSize='18px'>
+                    implemented with React, WebGl(Three library)
+                  </Muted>
+                </GridItem>
+              </GridContainer>
+              <GridContainer spacing={3}>
+                <GridItem xs={12} sm={12} md={12}>
+                  <Success fontSize='2.5rem'>
+                    Music Looper
+                  </Success>
+                  <Muted fontSize='18px'>
+                  Music Looper demo web app witch you can make and play your own music 
+                  </Muted>
+                  <Muted fontSize='18px'>
+                    implemented with React, WebGl, WebAudio
+                  </Muted>
+                </GridItem>
+              </GridContainer>
             </CardBody>
           </Card>
         </GridItem>
