@@ -31,6 +31,7 @@ import Qualifications from "views/Qualifications/Qualifications.js";
 import Experience from "views/Experience/Experience.js";
 import LifeFinder_clab from "views/LifeFinder_clab/LifeFinder_clab.js";
 import TerrainCanvas from "views/TerrainCanvas/TerrainCanvas.js";
+import MusicLooper from "views/MusicLooper/MusicLooper.js";
 import AudioQualityTest from "views/AudioQualityTest/AudioQualityTest.js";
 import Portfolio from "views/Portfolio/Portfolio.js";
 // core components/views for RTL layout
@@ -59,6 +60,10 @@ const dashboardRoutes = [
   {
     path: "/TerrainCanvas",
     component: TerrainCanvas,
+  },
+  {
+    path: "/MusicLooper",
+    component: MusicLooper,
   },
 ];
 
@@ -101,6 +106,12 @@ export const dashboardRoutesTree = [
         name: "3D Terrain Canvas",
         icon: LocationOn,
         component: TerrainCanvas,
+      },
+      {
+        path: "/MusicLooper",
+        name: "Music Looper",
+        icon: LocationOn,
+        component: MusicLooper,
       },
     ]
   },
