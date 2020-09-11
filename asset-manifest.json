@@ -1,28 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.5ee3f738.chunk.css",
-    "main.js": "/static/js/main.dc55780c.chunk.js",
-    "main.js.map": "/static/js/main.dc55780c.chunk.js.map",
+    "main.js": "/static/js/main.59271316.chunk.js",
+    "main.js.map": "/static/js/main.59271316.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f9fa5b6e.js",
     "runtime-main.js.map": "/static/js/runtime-main.f9fa5b6e.js.map",
     "static/css/2.d0176e96.chunk.css": "/static/css/2.d0176e96.chunk.css",
-    "static/js/2.545e760d.chunk.js": "/static/js/2.545e760d.chunk.js",
-    "static/js/2.545e760d.chunk.js.map": "/static/js/2.545e760d.chunk.js.map",
+    "static/js/2.ccefbbe4.chunk.js": "/static/js/2.ccefbbe4.chunk.js",
+    "static/js/2.ccefbbe4.chunk.js.map": "/static/js/2.ccefbbe4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f4c1c458a20f11150741939eee5cefc4.js": "/precache-manifest.f4c1c458a20f11150741939eee5cefc4.js",
+    "precache-manifest.367ab3f2bdbe78b21a03195a59ac0878.js": "/precache-manifest.367ab3f2bdbe78b21a03195a59ac0878.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.5ee3f738.chunk.css.map": "/static/css/main.5ee3f738.chunk.css.map",
-    "static/js/2.545e760d.chunk.js.LICENSE.txt": "/static/js/2.545e760d.chunk.js.LICENSE.txt",
-    "static/js/main.dc55780c.chunk.js.LICENSE.txt": "/static/js/main.dc55780c.chunk.js.LICENSE.txt",
+    "static/js/2.ccefbbe4.chunk.js.LICENSE.txt": "/static/js/2.ccefbbe4.chunk.js.LICENSE.txt",
+    "static/js/main.59271316.chunk.js.LICENSE.txt": "/static/js/main.59271316.chunk.js.LICENSE.txt",
+    "static/media/lifefinder_logo.PNG": "/static/media/lifefinder_logo.b3d2773e.PNG",
+    "static/media/main_page.PNG": "/static/media/main_page.600e4dd5.PNG",
+    "static/media/map_2d.PNG": "/static/media/map_2d.c5587882.PNG",
+    "static/media/map_3d.PNG": "/static/media/map_3d.670f0811.PNG",
     "static/media/marc.jpg": "/static/media/marc.903cb65d.jpg",
-    "static/media/sidebar-2.jpg": "/static/media/sidebar-2.310509c9.jpg"
+    "static/media/sidebar-2.jpg": "/static/media/sidebar-2.310509c9.jpg",
+    "static/media/techs.PNG": "/static/media/techs.46ce8164.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.f9fa5b6e.js",
     "static/css/2.d0176e96.chunk.css",
-    "static/js/2.545e760d.chunk.js",
+    "static/js/2.ccefbbe4.chunk.js",
     "static/css/main.5ee3f738.chunk.css",
-    "static/js/main.dc55780c.chunk.js"
+    "static/js/main.59271316.chunk.js"
   ]
 }
