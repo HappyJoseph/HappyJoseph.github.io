@@ -44,7 +44,6 @@ export default function Icons() {
             </p>
 
             <br/><br/><br/>
-            <h2 style={{fontWeight:"800"}}>Strength Point</h2>
             <h3 style={{fontWeight:"800"}}>1. Build GIS server, AWS infra structure</h3>
             <h4>Build a database server specialized for storage of geographic data<br/>Build AWS infrastructure to handle large amounts of traffic</h4>
             <img class="fit-picture" src={techs} alt="..."/>
