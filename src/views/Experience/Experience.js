@@ -114,7 +114,7 @@ export default function Experience() {
         <Divider/>
         <div className={classes.typo}>
           <div className={classes.note}>
-            <Muted fontSize={yearFSize}>2019~2020</Muted>
+            <Muted fontSize={yearFSize}>2020~</Muted>
           </div>
           <Info fontSize={titleFSize}> Samsung Venture team C-LAB</Info>
           <Muted fontSize={desFSize}>

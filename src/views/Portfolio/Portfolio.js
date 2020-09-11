@@ -47,25 +47,24 @@ export default function Qualifications() {
           <Card>
             <CardHeader color="primary">
               <h1 className={classes.cardTitleWhite}>Portfolio</h1>
-              <h3 className={classes.cardTitleWhite}>in progress ...</h3>
             </CardHeader>
             <CardBody>
-              {/* <GridContainer>
+              <GridContainer>
                 <GridItem xs={12} sm={12} md={12}>
                   <Success fontSize='2.5rem'>
                     Lifefinder C-Lab
                   </Success>
                   <Muted fontSize='18px'>
+                    Lifefinder service helps rescue teams to find missing people in a mountainous environment
+                  </Muted>
+                  <Muted fontSize='18px'>
                     Mass user,traffic gis(geographic information system)
                   </Muted>
                   <Muted fontSize='18px'>
-                    helpful for professional rescue rangers to search and rescue missing people in moutain
-                  </Muted>
-                  <Muted fontSize='18px'>
-                    I currently working on (2020.4 ~ 2020.12)
+                    (2020.4 ~ 2020.12)
                   </Muted>
                 </GridItem>
-              </GridContainer> */}
+              </GridContainer>
               <GridContainer spacing={3}>
                 <GridItem xs={12} sm={12} md={12}>
                   <Success fontSize='2.5rem'>

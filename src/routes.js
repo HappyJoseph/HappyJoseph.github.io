@@ -54,6 +54,10 @@ const dashboardRoutes = [
     component: Portfolio,
   },
   {
+    path: "/LifeFinder_clab",
+    component: LifeFinder_clab,
+  },
+  {
     path: "/TerrainCanvas",
     component: TerrainCanvas,
   },
@@ -61,10 +65,6 @@ const dashboardRoutes = [
     path: "/MusicLooper",
     component: MusicLooper,
   },
-  // {
-  //   path: "/LifeFinder_clab",
-  //   component: LifeFinder_clab,
-  // },
 ];
 
 export const dashboardRoutesTree = [
@@ -96,6 +96,12 @@ export const dashboardRoutesTree = [
     component: Portfolio,
     child : [
       {
+        path: "/LifeFinder_clab",
+        name: "LifeFinder C-lab",
+        icon: LocationOn,
+        component: LifeFinder_clab,
+      },
+      {
         path: "/TerrainCanvas",
         name: "3D Terrain Canvas",
         icon: LocationOn,
@@ -107,12 +113,6 @@ export const dashboardRoutesTree = [
         icon: LocationOn,
         component: MusicLooper,
       },
-      // {
-      //   path: "/LifeFinder_clab",
-      //   name: "LifeFinder C-lab",
-      //   icon: LocationOn,
-      //   component: LifeFinder_clab,
-      // },
     ]
   },
 ];
