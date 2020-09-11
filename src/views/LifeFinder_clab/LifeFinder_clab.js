@@ -37,7 +37,7 @@ export default function Icons() {
               Lifefinder service helps rescue teams to find missing people in a mountainous environment based on GIS
             </p>
             <br/><br/>
-            <img class="fit-picture" src={lifefinder_logo} alt=""/>
+            <img class="fit-picture" src={lifefinder_logo} alt="..."/>
             <br/><br/>
             <p className={classes.description} style={{fontSize:"1.5rem"}}>
               Skills : GIS server(GeoServer, PostgreSQL), frontend(React), 3d graphic(Three.js)
@@ -47,17 +47,17 @@ export default function Icons() {
             <h2 style={{fontWeight:"800"}}>Strength Point</h2>
             <h3 style={{fontWeight:"800"}}>1. Build GIS server, AWS infra structure</h3>
             <h4>Build a database server specialized for storage of geographic data<br/>Build AWS infrastructure to handle large amounts of traffic</h4>
-            <img class="fit-picture" src={techs} alt=""/>
+            <img class="fit-picture" src={techs} alt="..."/>
             <br/><br/>
             <h3 style={{fontWeight:"800"}}>2. Implement frontend server</h3>
             <h4>Building a modern React.js frontend server for smooth traffic handling<br/>Rest api-based server construction for distributed processing and horizontal scaling</h4>
-            <img class="fit-picture" src={main_page} alt="" style={{width:"100%"}}/>
+            <img class="fit-picture" src={main_page} alt="..." style={{width:"100%"}}/>
             <h6>* hexagon : area in which rescue teams searched<br/>* polygon : area in which rescue teams are assigned to rescue</h6>
             <br/><br/>
             <h3 style={{fontWeight:"800"}}>3. Transform 2D satellite to 3D terrain</h3>
             <h4>Transform 2D satellite map to 3D terrain map with DEM data and satellite texture<br/>Provides smooth service by introducing the latest 3D processing technology</h4>
-            <img class="fit-picture" src={map_2d} alt="" style={{width:"100%"}}/>
-            <img class="fit-picture" src={map_3d} alt="" style={{width:"100%"}}/>
+            <img class="fit-picture" src={map_2d} alt="..." style={{width:"100%"}}/>
+            <img class="fit-picture" src={map_3d} alt="..." style={{width:"100%"}}/>
 
             <h3 style={{fontWeight:"800"}}>In progress(~2020.12.31)</h3>
           </CardBody>
